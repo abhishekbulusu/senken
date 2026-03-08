@@ -1,4 +1,4 @@
-# 🛡️ Senken — Real-Time Wildfire Risk Assessment Agent
+# 🛡️ Senken — Wildfire Risk Assessment Agent
 
 ## Team
 - **Abhishek Sharma Bulusu**
