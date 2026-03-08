@@ -19,6 +19,14 @@ Senken is a real-time wildfire risk assessment agent. Point your phone at your p
 - **Live Vision** — Camera identifies wildfire risk factors in real time
 - **Voice Conversation** — Agent narrates findings and answers questions naturally
 - **Guided Walkthrough** — Structured 6-step property assessment based on CAL FIRE defensible space zones
+- The 6 steps your agent guides the user through:
+Front of home — "Hold your camera steady so I can see the front"
+Foundation / Zone 0 — "Walk me along the first 5 feet around your home"
+Vegetation — "Show me bushes, trees, landscaping near the house"
+Roof and gutters — "Point up at your roof and gutters"
+Decks and storage — "Show me decks, porches, outdoor storage"
+Broader yard — "Show me the yard and trees within 100 feet"
+Based on CAL FIRE defensible space zones: Zone 0 (0-5ft), Zone 1 (5-30ft), Zone 2 (30-100ft).
 - **Risk Scoring** — Overall HIGH / MODERATE / LOW rating
 - **Mitigation Plan** — Top 3 prioritized actions
 
