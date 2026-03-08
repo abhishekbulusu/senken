@@ -1,7 +1,7 @@
 # 🛡️ Senken — Real-Time Wildfire Risk Assessment Agent
 
 ## Team
-- **Abhishek Sharma Bulusu** — Product Strategy & Domain Expert (Insurance Technology, Munich RE)
+- **Abhishek Sharma Bulusu**
 
 ## Track
 **The Live Agent** — Real-time, voice-and-vision enabled agent
